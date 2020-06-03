@@ -13,6 +13,7 @@
 # Dicionário de Dados
 
 
+![4](https://user-images.githubusercontent.com/66250672/83680415-d8f9f400-a5d8-11ea-9a7f-edb9f568cdbe.PNG)
 
 
 ![3](https://user-images.githubusercontent.com/66250672/83677874-be258080-a5d4-11ea-9d98-a5dba8a396b8.PNG)
